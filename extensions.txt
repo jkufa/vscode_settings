@@ -1,0 +1,13 @@
+code --install-extension 2gua.rainbow-brackets
+code --install-extension austin.code-gnu-global
+code --install-extension bringout.pdf-view
+code --install-extension DavidAnson.vscode-markdownlint
+code --install-extension foxundermoon.shell-format
+code --install-extension GrapeCity.gc-excelviewer
+code --install-extension James-Yu.latex-workshop
+code --install-extension ms-python.python
+code --install-extension ms-vscode.cpptools
+code --install-extension ms-vsliveshare.vsliveshare
+code --install-extension swyphcosmo.spellchecker
+code --install-extension tomphilbin.gruvbox-themes
+code --install-extension torn4dom4n.latex-support

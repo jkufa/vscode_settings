@@ -1,0 +1,15 @@
+{
+    "workbench.colorTheme": "Gruvbox Dark (Soft)",
+    "window.zoomLevel": 0,
+    "editor.rulers": [
+        80,
+        100
+    ],
+    "editor.tabSize": 2,
+    "editor.fontFamily": "'Fira Code",
+    "editor.fontLigatures": true,
+    "editor.renderWhitespace": "boundary",
+    "workbench.startupEditor": "newUntitledFile",
+    "C_Cpp.updateChannel": "Insiders",
+    "liveshare.featureSet": "insiders",
+}
